@@ -1,6 +1,6 @@
 # KEMINTAS
 
-KEMINTAS is my personal web tools and infrastructure project.
+KEMINTAS is my personal project for building small web tools and operating personal infrastructure.
 
 I turn everyday inconveniences and repetitive tasks into simple web-based tools. Tools that can be safely shared are collected on kemintas.com and provided as small utilities that anyone can use.
 
